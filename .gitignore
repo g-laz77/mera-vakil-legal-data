@@ -1,0 +1,23 @@
+# Binary / generated
+*.db
+*.docx
+*.zip
+*.png
+*.jpg
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.env
+*credentials*
+image.png
+remotlog_*.html
