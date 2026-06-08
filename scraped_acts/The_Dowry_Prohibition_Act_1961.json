@@ -1,1 +1,101 @@
-{"handle_id":"12822","metadata":{"Act Number":"28","Enactment Date":"1961-05-20","Act Year":"1961","Short Title":"The Dowry Prohibition Act, 1961","Long Title":"An Act to prohibit the giving or taking of dowry.","Department":"Department of WOMAN AND CHILD DEVELOPMENT","Enforcement Date":"01-07-1961","Type":"CENTRAL ACT (Ministry of Women and Child Development, )","Location":"Chhattisgarh","Notification":"1st July, 1961, vide notification No. S.O. 1410, dated 20th June, 1961, see Gazette of India, Extraordinary, Part II, sec. 3(ii).","Ref Act ID":"196128"},"total_sections":13,"scrape_timestamp":"2026-04-23T20:30:12Z","source":"India Code (indiacode.nic.in)","sections":[{"section_number":"1","section_title":"Short title, extent and commencement.","section_id":"28675","act_id":"AC_CEN_13_14_00003_196128_1517807322681","content_text":"(1) This Act may be called the Dowry Prohibition Act, 1961. (2) It extends to the whole of India. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.","footnote_text":"The words 'except the State of Jammu and Kashmir' omitted by Act 34 of 2019. 1st July, 1961, vide notification No. S.O. 1410."},{"section_number":"2","section_title":"Definition of dowry.","section_id":"28676","content_text":"In this Act, 'dowry' means any property or valuable security given or agreed to be given either directly or indirectly-- (a) by one party to a marriage to the other party to the marriage; or (b) by the parents of either party to a marriage or by any other person, to either party to the marriage or to any other person; at or before or any time after the marriage in connection with the marriage of the said parties, but does not include dower or mahr in the case of persons to whom the Muslim Personal Law (Shariat) applies."},{"section_number":"3","section_title":"Penalty for giving or taking dowry.","section_id":"28677","content_text":"If any person, after the commencement of this Act, gives or takes or abets the giving or taking of dowry, he shall be punishable with imprisonment for a term which shall not be less than five years, and with fine which shall not be less than fifteen thousand rupees or the amount of the value of such dowry, whichever is more: Provided that the Court may, for adequate and special reasons to be recorded in the judgment, impose a sentence of imprisonment for a term of less than five years. (2) Nothing in sub-section (1) shall apply to presents which are given at the time of a marriage to the bride or bridegroom without any demand having been made in that behalf, provided such presents are entered in a list maintained in accordance with the rules."},{"section_number":"4","section_title":"Penalty for demanding dowry.","section_id":"28678","content_text":"If any person demands, directly or indirectly, from the parents or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years and with fine which may extend to ten thousand rupees."},{"section_number":"4A","section_title":"Ban on advertisement.","section_id":"28679","content_text":"If any person offers, through any advertisement, any share in his property as consideration for marriage, or prints or publishes such advertisement, he shall be punishable with imprisonment up to five years or fine up to fifteen thousand rupees."},{"section_number":"5","section_title":"Agreement for giving or taking dowry to be void.","section_id":"28680","content_text":"Any agreement for the giving or taking of dowry shall be void."},{"section_number":"6","section_title":"Dowry to be for the benefit of the wife or her heirs.","section_id":"28681","content_text":"Where any dowry is received by any person other than the woman in connection with whose marriage it is given, that person shall transfer it to the woman within three months. If the person fails to transfer, he shall be punishable with imprisonment and fine. Where the woman dies within seven years of marriage otherwise than due to natural causes, the property shall be transferred to her parents or children."},{"section_number":"7","section_title":"Cognizance of offences.","section_id":"28682","content_text":"No Court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence under this Act. No court shall take cognizance except upon its own knowledge or a police report or a complaint by the person aggrieved or a recognised welfare institution."},{"section_number":"8","section_title":"Offences to be cognizable and non-bailable.","section_id":"28683","content_text":"The Code of Criminal Procedure, 1973 shall apply to offences under this Act as if they were cognizable offences for investigation purposes. Every offence under this Act shall be non-bailable and non-compoundable."},{"section_number":"8A","section_title":"Burden of proof in certain cases.","section_id":"30952","content_text":"Where any person is prosecuted for taking or abetting the taking of any dowry under section 3, or the demanding of dowry under section 4, the burden of proving that he had not committed an offence under those sections shall be on him."},{"section_number":"8B","section_title":"Dowry Prohibition Officers.","section_id":"30953","content_text":"The State Government may appoint Dowry Prohibition Officers who shall see that the provisions of this Act are complied with, prevent the taking or demanding of dowry, collect evidence for prosecution, and perform additional functions as assigned."},{"section_number":"9","section_title":"Power to make rules.","section_id":"30954","content_text":"The Central Government may make rules for carrying out the purposes of this Act, including the form and manner of maintaining lists of presents."},{"section_number":"10","section_title":"Power of the State Government to make rules.","section_id":"30955","content_text":"The State Government may make rules for additional functions of Dowry Prohibition Officers and the limitations and conditions subject to which they exercise their functions."}]}
+{
+  "handle_id": "12822",
+  "metadata": {
+    "Act Number": "28",
+    "Enactment Date": "1961-05-20",
+    "Act Year": "1961",
+    "Short Title": "The Dowry Prohibition Act, 1961",
+    "Long Title": "An Act to prohibit the giving or taking of dowry.",
+    "Department": "Department of WOMAN AND CHILD DEVELOPMENT",
+    "Enforcement Date": "01-07-1961",
+     "Type": "CENTRAL ACT (Ministry of Women and Child Development, Location: Chhattisgarh)",
+    "Location": "Chhattisgarh",
+    "Notification": "Came into force on July 1, 1961",
+    "Ref Act ID": "196128"
+  },
+  "total_sections": 13,
+  "source": "India Code (indiacode.nic.in) - full script extraction",
+  "scrape_timestamp": "2026-04-23T20:20:00Z",
+  "sections": [
+    {
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement.",
+      "section_id": "28675",
+      "content_text": "(1) This Act may be called the Dowry Prohibition Act, 1961.\n(2) It extends to the whole of India.\n(3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint.",
+      "footnote_text": "1. Came into force on July 1, 1961, vide Notification No. S.O. 1410, dated June 20, 1961, Gazette of India, Extraordinary, Part II, Section 3."
+    },
+    {
+      "section_number": "2",
+      "section_title": "Definition of dowry.",
+      "section_id": "28676",
+      "content_text": "In this Act, \"dowry\" means any property or valuable security given or agreed to be given either directly or indirectly--\n(a) by one party to a marriage to the other party to the marriage; or\n(b) by the parents of either party to a marriage or by any other person, to either party to the marriage or to any other person; \nat or before or after any time after the marriage in connection with the marriage of the said parties, but does not include dower or mihr in the case of persons to whom the Muslim Personal Law (Shariat) applies.",
+      "footnote_text": ""
+    },
+    {
+      "section_number": "3",
+      "section_title": "Penalty for giving or taking dowry.",
+      "section_id": "28677",
+      "content_text": "[[(5) If any person, after the commencement of this Act, gives or takes or abets the giving or taking of dowry, he shall be punishable with imprisonment for a term which shall not be less than five years, and with fine which shall not be less than fifteen thousand rupees or the amount of the value of such dowry, whichever is more]: Provided that the Court may, for adequate and special reasons to be recorded in the judgment, impose a sentence of imprisonment for a term of less than five years.]([(8) Nothing in sub-section (1) shall apply to, or in relation to,--(a) presents which are given at the time of a marriage to the bride.](b) presents which are given at the time of a marriage to the bridegroom)]"
+    },
+    {
+      "section_number": "4",
+      "section_title": "Penalty for demanding dowry.",
+      "section_id": "28678",
+      "content_text": "[[4. Penalty for demanding dowry.--If any person demands, directly or indirectly, from the parents or other relatives or guardian of a bride or bridegroom, as the case may be, any dowry, he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years and with fine which may extend to ten thousand rupees]"
+    },
+    {
+      "section_number": "4A",
+      "section_title": "Ban on advertisement.",
+      "section_id": "28679",
+      "content_text": "[[4A. Ban on advertisement.--If any person--(a) offers, through any advertisement in any newspaper, periodical, journal or through any other media, any share in his property or of any money or both as a share in any business or other interest as consideration for the marriage of his son or daughter or any other relative, (b) prints or publishes or circulates any advertisement referred to in clause (a), he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to five years, or with fine which may extend to fifteen thousand rupees.]"
+    },
+    {
+      "section_number": "5",
+      "section_title": "Agreement for giving or taking dowry to be void.",
+      "section_id": "28680",
+      "content_text": "Any agreement for the giving or taking of dowry shall be void."
+    },
+    {
+      "section_number": "6",
+      "section_title": "Dowry to be for the benefit of the wife or her heirs.",
+      "section_id": "28681",
+      "content_text": "(1) Where any dowry is received by any person other than the woman in connection with whose marriage it is given, that person shall transfer it to the woman--(a) if the dowry was received before marriage, within three months after the date of marriage; or (b) if the dowry was received at the time of or after the marriage, within three months after the date of its receipt; or (c) if the dowry was received when the woman was a minor, within three months after she has attained the age of eighteen years; and pending such transfer, shall hold it in trust for the benefit of the woman. \n(2) If any person fails to transfer any property as required by sub-section (1) within the time limit specified therefor, he shall be punishable with imprisonment for a term which shall not be less than six months, but which may extend to two years or with fine which shall not be less than five thousand rupees, but which may extend to ten thousand rupees or with both. \n(3) Where the woman entitled to any property under sub-section (1) dies before receiving it, the heirs of the woman shall be entitled to claim it from the person holding it for the time being."
+    },
+    {
+      "section_number": "7",
+      "section_title": "Cognizance of offences.",
+      "section_id": "28682",
+      "content_text": "[(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, --\n(a) no Court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence under this Act;\n(b) no court shall take cognizance of an offence under this Act except upon--\n(i) its own knowledge or a police report of the facts which constitute such offence, or\n(ii) a complaint by the person aggrieved by the offence or a parent or other relative of such person, or by any recognised welfare institution or organisation;\n(c) it shall be lawful for a Metropolitan Magistrate or a Judicial Magistrate of the first class to pass any sentence authorised by this Act on any person convicted of an offence under this Act.]((8) Nothing in Chapter XXXVI of the Code of Criminal Procedure, 1973, shall apply to any offence punishable under this Act.]( [() Notwithstanding anything contained in any law for the time being in force a statement made by the person aggrieved by the offence shall not subject such person to a prosecution under this Act.]"
+    },
+    {
+      "section_number": "8",
+      "section_title": "Offences to be cognizable for certain purposes and to be bailable and non-compoundable.",
+      "section_id": "28683",
+      "content_text": "[(8) The Code of Criminal Procedure, 1973 shall apply to offences under this Act as if they were cognizable offences--\n(a) for the purposes of investigation of such offences; and\n(b) for the purposes of matters other than-- (i) matters referred to in section 42 of that Code; and (ii) the arrest of a person without a warrant or without an order of a Magistrate.\n(2) Every offence under this Act shall be non-bailable and non-compoundable.]"
+    },
+    {
+      "section_number": "8A",
+      "section_title": "Burden of proof in certain cases",
+      "section_id": "30952",
+      "content_text": "[8A. Burden of proof in certain cases.--Where any person is prosecuted for taking or abetting the taking of any dowry under section 3, or the demanding of dowry under section 4, the burden of proving that he had not committed an offence under those sections shall be on him.]"
+    },
+    {
+      "section_number": "8B",
+      "section_title": "Dowry Prohibition Officers",
+      "section_id": "30953",
+      "content_text": "(1) The State Government may appoint as many Dowry Prohibition Officers as it thinks fit and specify the areas in respect of which they shall exercise their jurisdiction and powers under this Act.\n(2) Every Dowry Prohibition Officer shall exercise and perform the following powers and functions, namely:-- (a) to see that the provisions of this Act are complied with; (b) to prevent, as far as possible, the taking or abetting the taking of, or the demanding of, dowry; (c) to collect such evidence as may be necessary for the prosecution of persons committing offences under the Act; and (d) to perform such additional functions as may be assigned to him by the State Government, or as may be specified in the rules made under this Act.\n(3) The State Government may, by notification in the Official Gazette, confer such powers of a police officer as may be specified in the notification on the Dowry Prohibition Officer who shall exercise such powers subject to such limitations and conditions as may be specified by rules made under this Act.\n4) The State Government may, for the purpose of advising and assisting Dowry Prohibition Officers in the efficient performance of their functions under this Act, appoint an advisory board consisting of not more than five social welfare workers (out of whom at least two shall be women) from the area in respect of which such Dowry Prohibition Officer exercises jurisdiction under sub-section (1)."
+    },
+    {
+      "section_number": "9",
+      "section_title": "Power to make rules",
+      "section_id": "30954",
+      "content_text": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.\n2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for-- (a) the form and manner in which, and the persons by whom, any list of presents referred to in sub-section (2) of section 3 shall be maintained and all other matters connected therewith; and (b) the better co-ordination of policy and action with respect to the administration of this Act.\m3)] Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days."
+    },
+    {
+      "section_number": "10",
+      "section_title": "Power of the State Government to make rules",
+      "section_id": "30955",
+      "content_text": "[10. Power of the State Government to make rules.--(1) The State Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:-- (a) the additional functions to be performed by the Dowry Prohibition Officers under sub-section (2) of section 8B; (b) limitations and conditions subject to which a Dowry Prohibition Officer may exercise his functions under sub-section (3) of section 8B.\n(3) Every rule made by the State Government under this section shall be laid as soon as may be after it is made before the State Legislature.]"
+    }
+  ]
+}
